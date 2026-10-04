@@ -213,4 +213,4 @@ BitDefender USB Immunizer is provided as a full free version with all features a
 Protect your USB devices today with BitDefender USB Immunizer — **download now for free!**
 
 ---
-**Last updated:** 2026-10-04 10:57:01 UTC
+**Last updated:** 2026-10-04 15:43:28 UTC
